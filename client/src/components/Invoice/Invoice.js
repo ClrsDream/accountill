@@ -411,7 +411,7 @@ const Invoice = () => {
                 <h4>{subTotal}</h4>
             </div>
             <div className={styles.summaryItem}>
-                <p>VAT(%):</p>
+                <p>SST(%):</p>
                 <h4>{vat}</h4>
             </div>
             <div className={styles.summaryItem}>

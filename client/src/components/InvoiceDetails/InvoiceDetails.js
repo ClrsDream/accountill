@@ -342,7 +342,7 @@ if(!invoice) {
                         <h4>{subTotal}</h4>
                     </div>
                     <div className={styles.summaryItem}>
-                        <p>{`VAT(${rates}%):`}</p>
+                        <p>{`SST(${rates}%):`}</p>
                         <h4>{vat}</h4>
                     </div>
                     <div className={styles.summaryItem}>
